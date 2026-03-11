@@ -13,7 +13,7 @@
 | --------------- | ------------------------------------------------------------ |
 | 图论第一章 |[Lecture 1 离散数学-图论-Chapter01.pdf](./PDF_Slides/离散数学-图论-Chapter01.pdf)|
 | 图论第二章 |[Lecture 2 离散数学-图论-Chapter02.pdf](./PDF_Slides/离散数学-图论-Chapter02.pdf)|
-| 图论第二章 |[Lecture 3 离散数学-图论-Chapter03.pdf](./PDF_Slides/离散数学-图论-Chapter03.pdf)|
+| 图论第三章 |[Lecture 3 离散数学-图论-Chapter03.pdf](./PDF_Slides/离散数学-图论-Chapter03.pdf)|
 
 
 
@@ -29,3 +29,4 @@
 
 
 ## 勘误
+1.图论第三章PPT进行了更新，请以目前版本为准（更新时间3月11日）
