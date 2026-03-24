@@ -28,6 +28,9 @@
 ## 习题课 / 随堂测试 / Exam
 
 ### 补充题
+- [图论第一章 补充题](./PDF_Slides/离散数学-图论-Chapter01-Exercises.pdf)
+- [图论第二章 补充题](./PDF_Slides/离散数学-图论-Chapter02-Exercises.pdf)
+- [图论第三章 补充题](./PDF_Slides/离散数学-图论-Chapter03-Exercises.pdf)
 
 
 ### 习题课
