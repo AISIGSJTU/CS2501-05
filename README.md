@@ -18,6 +18,9 @@
 | 数理逻辑第二章|[Lecture 5 离散数学-数理逻辑-Chapter02.pdf](./PDF_Slides/离散数学chapter02.pdf)|
 | 数理逻辑第四章|[Lecture 6 离散数学-数理逻辑-Chapter04.pdf](./PDF_Slides/离散数学chapter04.pdf)|
 | 数理逻辑第五章|[Lecture 7 离散数学-数理逻辑-Chapter05.pdf](./PDF_Slides/离散数学chapter05.pdf)|
+| 集合论第九章|[Lecture 8 离散数学-集合论-Chapter09.pdf](./PDF_Slides/第九章_集合论.pdf)|  
+| 集合论第十章|[Lecture 9 离散数学-集合论-Chapter10.pdf](./PDF_Slides/第十章_关系.pdf)|
+| 集合论第十一章|[Lecture 10 离散数学-集合论-Chapter11.pdf](./PDF_Slides/第十一章_函数.pdf)|
 
 
 
